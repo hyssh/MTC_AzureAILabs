@@ -23,7 +23,7 @@ audience.
    7. Explain what AML Experiment is.
    8. Explain what AML Run is.
    9. Explain the concept of Estimators and Run configurations. Deep dive into the details of configuring custom run environments and connecting Compute Targets to Datastores
-   10. Explain what AML Jupyter widgets are and how to use them to monitor execution of the jobs.
+   10. Explain what AML Jupyter widgets are and how to use them to monitor the AML jobs.
  
 3. Part 2 - Training and Hyper Parameter Tuning
    1. Go over the training script. Explain how the script uses `Run` object to track `training and validation accuracy` in AML Experiment. Elaborate on the role of AML Experiment in managing artifacts created by training runs.
