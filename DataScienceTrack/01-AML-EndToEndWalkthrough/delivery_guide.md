@@ -10,8 +10,8 @@ audience.
    1. Explain the lab scenario.
    2. Deep diving into Deep Learning IS NOT the goal of this lab, but be prepared to briefly describe (at a very high level) key Deep Learning concepts including Transfer Learning. 
    3. Go over key Azure Machine Learning service components and a typical machine learning workflow in the context of Azure ML
-   4. Walk the students through the Workspace provisioning code in the notebook .
-   5. After the workspace has been provisioned go through AML web interface in Azure Portal, drilling down to each section.
+   4. Walk the students through the Workspace provisioning code 
+   5. Go through AML web interface in Azure Portal, drilling down to each section.
    
 2. Part 1 - Feature Engineering - `01-feature-engineering.ipynb`
    1. Explain what a script is in the context of Azure Machine Learning service
