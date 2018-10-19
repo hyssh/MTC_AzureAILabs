@@ -29,7 +29,7 @@ audience.
    1. Go over the training script. Explain how the script uses `Run` object to track `training and validation accuracy` in AML Experiment. Elaborate on the role of AML Experiment in managing artifacts created by training runs.
    2. You don't need to go into the details of the Artificial Neural Network architecture used in the lab. It is not critical in the context of the goal of the lab. Just explain that AML supports any framework and that in this lab we are using TensorFlow Keras to create a simple Fully Connected Neural Network to act as an image classifier. And that there are a few hyperparameters that control the training behaviour of the network.
    
-   3. Dive a little bit deeper in Azure Batch AI as we are using Azure Batch AI cluster as a compute target in this lab.
+   3. Dive a little bit deeper into Azure Batch AI and how we are using Azure Batch AI cluster as a compute target in this lab.
    4. Explain what `hyperdrive` is and how it can be used to run distributed hyper parameter tuning jobs. The students may ask about different parameter sampling and termination strategies. Be prepared to explain which ones we support in Azure ML.
    5. Deep dive into Model Registry and how it can be used to manage multiple versions of a model.
    
