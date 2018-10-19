@@ -25,7 +25,7 @@ audience.
    9. Explain the concept of Estimators and Run configurations. Deep dive into the details of configuring custom run environments and connecting Compute Targets to Datastores
    10. Explain what AML Jupyter widgets are and how to use them to monitor the AML jobs.
  
-3. Part 2 - Training and Hyper Parameter Tuning
+3. Part 2 - Training and Hyper Parameter Tuning - `02-train.ipynb`
    1. Go over the training script. Explain how the script uses `Run` object to track `training and validation accuracy` in AML Experiment. Elaborate on the role of AML Experiment in managing artifacts created by training runs.
    2. You don't need to go into the details of the Artificial Neural Network architecture used in the lab. It is not critical in the context of the goal of the lab. Just explained that AML supports any framework and that in this lab we are using TensorFlow Keras to create a simple Fully Connected Neural Network to act as an image classifier. And that there are a few hyperparameters that control the training behaviour of the network.
    
@@ -33,7 +33,7 @@ audience.
    4. Explain what `hyperdrive` is and how it can be used to run distributed hyper parameter tuning jobs. The students may ask about different parameter sampling and termination strategies. Be prepared to explain which ones we support in Azure ML.
    5. Deep dive into Model Registry and how it can be used to manage multiple versions of a model.
    
-4. Part 3 - Operationalization
+4. Part 3 - Operationalization - `03-deploy.ipynb`
    1. Deep dive into different options for model deployment
    2. Deep dive into how to write scoring scripts
    3. Explain how AML creates custom docker images to support different deployment runtimes
