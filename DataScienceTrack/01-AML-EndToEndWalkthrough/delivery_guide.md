@@ -18,7 +18,7 @@ audience.
    2. Explain how to control the script's behaviour through command line parameters
    3. Quickly go over `ImageGenerator` class and emphasize the importance of taking performance and hardware limitations into consideration when dealing with real life data sets. For example, it would not be feasible to load all images into memory so the `ImageGenerator` class reads and processed them in chunks.
    4. Explain how **ResNet50** is instantiated with pre-trained parameters and how it is used to pre-process images.
-   5. Explain what AML Compute Target is and walk through the coded that provisions Azure DSVM.
+   5. Explain what AML Compute Target is and walk through the code that provisions Azure DSVM.
    6. Explain what AML Datastore is and how to use Datastores to manage both input training and validation data and output files created by the job
    7. Explain what AML Experiment is.
    8. Explain what AML Run is.
