@@ -2,6 +2,8 @@
 
 The goal of the lab is to introduce key components and features of Azure Machine Learning service. During the lab you will go through the full Machine Learning workflow from data preparation, through model training, to model operationalization.
 
+The lab can be delivered as a half-a-day workshop. Follow the [Delivery guide](https://raw.githubusercontent.com/Microsoft/MTC_AzureAILabs/master/DataScienceTrack/01-AML-EndToEndWalkthrough/delivery_guide.md) for the recommended flow of the workshop.
+
 ## Lab environment set up
 
 
