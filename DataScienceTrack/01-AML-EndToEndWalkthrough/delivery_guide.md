@@ -3,7 +3,7 @@
 This lab was designed to be instructor led. It is expected that the instructor will walk students through the lab's notebooks 
 explaining key concepts, code snipptets, and answering any questions.
 
-You can run the lab as a four part workshop, each taking roughly 45 minutes. *Part 2 - feature engineering* and *Part 3 - training* can take a little bit longer but *Part 1 - introduction*  and *Part 4 -  deployment* will most likely take a little bit less then 45 minutes. 
+You can run the lab as a four part workshop, each part taking roughly 45 minutes. *Part 2 - feature engineering* and *Part 3 - training* can take a little bit longer but *Part 1 - introduction*  and *Part 4 -  deployment* will most likely take a little bit less then 45 minutes. 
 
 If you account for breaks the workshop will take about 4 hours.
 
