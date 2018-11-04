@@ -2,7 +2,9 @@
 using Microsoft.ML.Runtime.Data;
 using Microsoft.ML.Runtime.Learners;
 using System;
- 
+
+ //https://www.microsoft.com/net/learn/machinelearning-ai/ml-dotnet-get-started-tutorial
+
 namespace myApp
 {
     class Program

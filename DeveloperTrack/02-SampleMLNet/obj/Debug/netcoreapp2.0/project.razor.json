@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/amazaheri/Desktop/Dev/MTC_AzureAILabs/DeveloperTrack/02-SampleMLNet/myApp.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
