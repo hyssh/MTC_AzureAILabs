@@ -9,6 +9,7 @@ labels.txt
 *.wav
 *.hd5
 *.pb
+*.pkl
 aerial/
 aerialimages/
 aerialsmall/
@@ -22,4 +23,9 @@ test_images/
 DataScientistTrack/02-AML-EndToEndWalkthrough/script
 aml_config/
 datasets/
+bottleneck/
+script/
+bottleneck_features/
+*.log
+automl_errors.log
  
